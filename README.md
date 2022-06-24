@@ -1,1 +1,1 @@
-# ocr-synthetic-generation
+# Script for Synthetically Generating Images Given Text 
